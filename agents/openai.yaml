@@ -1,0 +1,4 @@
+interface:
+  display_name: "紫微斗数"
+  short_description: "排列十二宫与主星并给出可回查的盘面结构"
+  default_prompt: "Use $ziwei-doushu to build a traceable Zi Wei chart and interpret one focused question from its chart evidence."
